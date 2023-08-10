@@ -1,0 +1,2 @@
+guess_list = [' Almond','Banana',' blewits','Brazil',' Carrot',' Casaba',' Cashew',' Celery',' Cherry',' Oyster','Turnip ',' potato',
+            'Peanut',' Quince',' Walnut', ' Fennel',' Lentil','Tomato','Pawpaw','Kiwano','Greens','Girkins'  ]
